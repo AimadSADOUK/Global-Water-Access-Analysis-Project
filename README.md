@@ -25,7 +25,6 @@ This analysis provides a clearer picture of global water access challenges, iden
 ## Contact
 For questions or further collaboration opportunities, feel free to reach out to me:
 
-- **LinkedIn**: [Your LinkedIn URL]
-- **Email**: [Your Email Address]
+- **Email**: **sadouk.aimad@gmail.com**
 
 
