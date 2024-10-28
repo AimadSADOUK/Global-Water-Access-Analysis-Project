@@ -26,5 +26,7 @@ This analysis provides a clearer picture of global water access challenges, iden
 For questions or further collaboration opportunities, feel free to reach out to me:
 
 - **Email**: **sadouk.aimad@gmail.com**
+
+  ----
 ![image alt text](https://github.com/AimadSADOUK/Global-Water-Access-Analysis-Project/blob/main/4-Global%20Water%20Access%20Analysis%20Project.png?raw=true)
 
