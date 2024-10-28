@@ -28,10 +28,13 @@ For questions or further collaboration opportunities, feel free to reach out to 
 - **Email**: **sadouk.aimad@gmail.com**
 
   ----
+# Vis#01: First Page
 ![image alt text](https://github.com/AimadSADOUK/Global-Water-Access-Analysis-Project/blob/main/page01.PNG?raw=true)
 
+# Vis#02: Second Page
 ![image alt text](https://github.com/AimadSADOUK/Global-Water-Access-Analysis-Project/blob/main/page02.PNG?raw=true)
 
+# Vis#03: Third Page
 ![image alt text](https://github.com/AimadSADOUK/Global-Water-Access-Analysis-Project/blob/main/page03.PNG?raw=true)
 
 ![image alt text](https://github.com/AimadSADOUK/Global-Water-Access-Analysis-Project/blob/main/4-Global%20Water%20Access%20Analysis%20Project.png?raw=true)
