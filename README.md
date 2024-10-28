@@ -10,6 +10,7 @@ In this project, I conducted an exploratory data analysis (EDA) on global water 
 - **NumPy**: Efficient numerical operations
 - **Matplotlib & Seaborn**: Data visualisation for insights and trend analysis
 - **Exploratory Data Analysis (EDA)**: Investigated patterns and trends in global water access
+- **Power BI**: (Dashboard, DAX)
 
 ## Project Highlights
 This analysis was driven by the following key questions:
