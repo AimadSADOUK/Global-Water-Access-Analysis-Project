@@ -4,13 +4,15 @@
 
 ## Description
 In this project, I conducted an exploratory data analysis (EDA) on global water access data, examining key metrics like urbanisation, reliance on surface and unimproved water sources, and trends in access to basic water services. This analysis provides insights into countries with the greatest challenges in water accessibility and highlights trends over recent years.
+- Created a comprehensive dashboard that visualizes key metrics related to water services.
+- Employed various data visualization techniques to present findings clearly and effectively.
 
 ## Skills Used
 - **Pandas**: Data cleaning, manipulation, and transformation
 - **NumPy**: Efficient numerical operations
 - **Matplotlib & Seaborn**: Data visualisation for insights and trend analysis
 - **Exploratory Data Analysis (EDA)**: Investigated patterns and trends in global water access
-- **Power BI**: (Dashboard, DAX)
+- **Power BI**: (Dashboard and DAX)
 
 ## Project Highlights
 This analysis was driven by the following key questions:
