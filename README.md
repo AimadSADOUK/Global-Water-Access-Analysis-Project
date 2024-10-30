@@ -1,7 +1,7 @@
 # Global Water Access Analysis Project
 
 ## Author: Aimad Sadouk
-![image](https://github.com/AimadSADOUK/Global-Water-Access-Analysis-Project/blob/main/Global%20Water%20Access%20Analysis.png)
+![image]([https://github.com/AimadSADOUK/Global-Water-Access-Analysis-Project/blob/main/Global%20Water%20Access%20Analysis.png](https://github.com/AimadSADOUK/Global-Water-Access-Analysis-Project/blob/main/Global%20Water%20Access%20Analysis.png))
 
 --
 ## Description
