@@ -1,7 +1,9 @@
 # Global Water Access Analysis Project
 
 ## Author: Aimad Sadouk
+![image](https://github.com/AimadSADOUK/Global-Water-Access-Analysis-Project/blob/main/Global%20Water%20Access%20Analysis.png)
 
+--
 ## Description
 In this project, I conducted an exploratory data analysis (EDA) on global water access data, examining key metrics like urbanisation, reliance on surface and unimproved water sources, and trends in access to basic water services. This analysis provides insights into countries with the greatest challenges in water accessibility and highlights trends over recent years.
 - Created a comprehensive dashboard that visualizes key metrics related to water services.
@@ -39,5 +41,3 @@ For questions or further collaboration opportunities, feel free to reach out to 
 
 # Vis#03: Third Page
 ![image alt text](https://github.com/AimadSADOUK/Global-Water-Access-Analysis-Project/blob/main/page03.PNG?raw=true)
-
-![image](https://github.com/AimadSADOUK/Global-Water-Access-Analysis-Project/blob/main/Global%20Water%20Access%20Analysis.png)
