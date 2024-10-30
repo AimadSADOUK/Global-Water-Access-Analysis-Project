@@ -40,5 +40,4 @@ For questions or further collaboration opportunities, feel free to reach out to 
 # Vis#03: Third Page
 ![image alt text](https://github.com/AimadSADOUK/Global-Water-Access-Analysis-Project/blob/main/page03.PNG?raw=true)
 
-![image alt text](https://github.com/AimadSADOUK/Global-Water-Access-Analysis-Project/blob/main/4-Global%20Water%20Access%20Analysis%20Project.png?raw=true)
-
+![image](https://github.com/AimadSADOUK/Global-Water-Access-Analysis-Project/blob/main/Global%20Water%20Access%20Analysis.png)
